@@ -58,7 +58,7 @@ qubits in a different configuration for each example.**\
    <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=1ae7fa71f3ad1e6f8fbe269fafcc7ca9&sharedCode=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
 
 |
-| **CNOT (input 01)**
+| **CNOT (input 10)**
 
 .. raw:: html
 
@@ -66,7 +66,7 @@ qubits in a different configuration for each example.**\
    <a href="https://quantumexperience.ng.bluemix.net/qx/editor?codeId=1ae7fa71f3ad1e6f8fbe269fafd9abf4&sharedCode=true" target="_blank" style="text-align: right; display: block;">Open in composer</a>
 
 |
-| **CNOT (input 10)**
+| **CNOT (input 01)**
 
 .. raw:: html
 
